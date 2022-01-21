@@ -15,7 +15,7 @@
     "cors": "latest",
     "express": "latest",
     "kafka-node": "^5.0.0",
-    "log4js": "^6.1.2",
+    "log4js": "^6.4.0",
     "logplease": "^1.2.15",
     "socket.io": "^2.3.0",
     "ts-node-dev": "^1.0.0-pre.44",
